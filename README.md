@@ -6,8 +6,8 @@ Este repositorio contiene los distintos proyectos del curso de C++ en su edició
 
 ## 🛠️ Stack Tecnológico
 
-- [![C++][cpp-badge]][cpp-url]: Lenguaje de programación utilizado en el curso, conocido por su alto rendimiento y versatilidad en el desarrollo de software.
-- [![Visual Studio][visualstudio-badge]][visualstudio-url]: Entorno de desarrollo integrado (IDE) utilizado para crear, depurar y compilar los proyectos.
+- [![C++][cpp-badge]][cpp-url] Lenguaje de programación utilizado en el curso, conocido por su alto rendimiento y versatilidad en el desarrollo de software.
+- [![Visual Studio][visualstudio-badge]][visualstudio-url] Entorno de desarrollo integrado (IDE) utilizado para crear, depurar y compilar los proyectos.
 
 <hr/>
 
